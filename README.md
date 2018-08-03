@@ -1,4 +1,4 @@
-# GifMe
+# GIFted
 A Chrome Extension Allowing you to directly search for gifs using Giphy's API
 
 [Giphy's Documentation](https://developers.giphy.com/docs/)
