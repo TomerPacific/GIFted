@@ -22,4 +22,4 @@ You can select text from the browser to search for a gif
 
 ---
 
-You can also copy gif link to clipboard using the Copy Source button
+**You can also copy gif link to clipboard using the Copy Source button**
