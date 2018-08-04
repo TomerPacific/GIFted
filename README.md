@@ -8,17 +8,17 @@ A Chrome Extension Allowing you to directly search for gifs using Giphy's API
 
 You can either search for a specific gif based on a search term
 
-<img src="https://media.giphy.com/media/69xpE0H3xXJq2MnFHR/giphy.gif" width="200" height="200" alt="Searching for gif" />
+<img src="https://media.giphy.com/media/QM8qscDjiO7JwtWNN3/giphy.gif" width="200" height="200" alt="Searching for gif" />
 
 ---
 You can get a trending gif
 
-<img src="https://media.giphy.com/media/ddwS8079qK2X0OlElm/giphy.gif" width="200" height="200" alt="Searching for trending gif"/>
+<img src="https://media.giphy.com/media/xiYdnehq7t7g91Qx5W/giphy.gif" width="200" height="200" alt="Searching for trending gif"/>
 
 ---
 You can select text from the browser to search for a gif
 
-<img src="https://media.giphy.com/media/yvnRRs7cRCV1qFdkBt/giphy.gif" width="300" height="150" alt="Selecting text" />
+<img src="https://media.giphy.com/media/RZmNbsXTqjDFHhEd7r/giphy.gif" width="300" height="150" alt="Selecting text" />
 
 ---
 
