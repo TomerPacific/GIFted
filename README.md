@@ -18,7 +18,7 @@ You can get a trending gif
 ---
 You can select text from the browser to search for a gif
 
-<img src="https://media.giphy.com/media/RZmNbsXTqjDFHhEd7r/giphy.gif" width="300" height="150" alt="Selecting text" />
+<img src="https://media.giphy.com/media/RZmNbsXTqjDFHhEd7r/giphy.gif" width="300" height="300" alt="Selecting text" />
 
 ---
 
