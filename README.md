@@ -23,3 +23,5 @@ You can select text from the browser to search for a gif
 ---
 
 **You can also copy gif link to clipboard using the Copy Source button**
+
+<img src="https://media.giphy.com/media/uAO1GJNAD1wC1dylov/giphy.gif" width="300" height="500" alt="Selecting text" />
