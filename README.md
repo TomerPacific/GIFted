@@ -1,6 +1,8 @@
 # GIFted
 A Chrome Extension Allowing you to directly search for gifs using Giphy's API
 
+[GIFted At The Chrome Web Store](https://chrome.google.com/webstore/detail/gifted/jmhifaldhcbhfdgdbneekdaloednddco?hl=en)
+
 [Giphy's Documentation](https://developers.giphy.com/docs/)
 
 
